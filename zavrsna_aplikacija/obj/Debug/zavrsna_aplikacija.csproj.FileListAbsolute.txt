@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\obj\Debug\zavrsna_aplikacija.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\obj\Debug\zavrsna_aplikacija.Form1.resources
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\obj\Debug\zavrsna_aplikacija.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\obj\Debug\zavrsna_aplikacija.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\obj\Debug\zavrsna_aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\bin\Debug\zavrsna_aplikacija.exe.config
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\bin\Debug\zavrsna_aplikacija.exe
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\bin\Debug\zavrsna_aplikacija.pdb
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\obj\Debug\zavrsna_aplikacija.exe
+C:\Users\Ucenik\Desktop\zavrsna_aplikacija\zavrsna_aplikacija\obj\Debug\zavrsna_aplikacija.pdb
